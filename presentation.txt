@@ -1,4 +1,7 @@
 Nom : Romane Cote-colisson
 Age : 22 ans 
-Sexe : Femme 
+Sexe : F
 Taille : 1m64
+Couleur préférée : bleu
+Lieu de naissance : Pontarlier
+coucou
